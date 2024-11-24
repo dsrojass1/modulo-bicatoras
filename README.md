@@ -209,6 +209,3 @@ Para integrar con otros sistemas:
 - Mantener la compatibilidad hacia atrás
 - Documentar cambios en la API
 
-
-
-
